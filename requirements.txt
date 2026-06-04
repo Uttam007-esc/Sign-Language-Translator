@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+numpy
+mediapipe
+cvzone
+scikit-learn
+matplotlib
+pandas
+tqdm
