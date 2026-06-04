@@ -1,5 +1,10 @@
 #Sign Language Translator using Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Overview
 
 AI Sign Language Translator is a Deep Learning-based application designed to bridge the communication gap between hearing-impaired individuals and the wider community. The system recognizes sign language hand gestures and translates them into readable text in real time using Computer Vision and Deep Learning techniques.
