@@ -1,4 +1,4 @@
-#Sign Language Translator
+#Sign Language Translator using Deep Learning
 
 ## Overview
 
